@@ -1,0 +1,14 @@
+C:\Users\nalin\source\repos\Calculator_Console\Calculator_Console\bin\Debug\net8.0\Calculator_Console.exe
+C:\Users\nalin\source\repos\Calculator_Console\Calculator_Console\bin\Debug\net8.0\Calculator_Console.deps.json
+C:\Users\nalin\source\repos\Calculator_Console\Calculator_Console\bin\Debug\net8.0\Calculator_Console.runtimeconfig.json
+C:\Users\nalin\source\repos\Calculator_Console\Calculator_Console\bin\Debug\net8.0\Calculator_Console.dll
+C:\Users\nalin\source\repos\Calculator_Console\Calculator_Console\bin\Debug\net8.0\Calculator_Console.pdb
+C:\Users\nalin\source\repos\Calculator_Console\Calculator_Console\obj\Debug\net8.0\Calculator_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nalin\source\repos\Calculator_Console\Calculator_Console\obj\Debug\net8.0\Calculator_Console.AssemblyInfoInputs.cache
+C:\Users\nalin\source\repos\Calculator_Console\Calculator_Console\obj\Debug\net8.0\Calculator_Console.AssemblyInfo.cs
+C:\Users\nalin\source\repos\Calculator_Console\Calculator_Console\obj\Debug\net8.0\Calculator_Console.csproj.CoreCompileInputs.cache
+C:\Users\nalin\source\repos\Calculator_Console\Calculator_Console\obj\Debug\net8.0\Calculator_Console.dll
+C:\Users\nalin\source\repos\Calculator_Console\Calculator_Console\obj\Debug\net8.0\refint\Calculator_Console.dll
+C:\Users\nalin\source\repos\Calculator_Console\Calculator_Console\obj\Debug\net8.0\Calculator_Console.pdb
+C:\Users\nalin\source\repos\Calculator_Console\Calculator_Console\obj\Debug\net8.0\Calculator_Console.genruntimeconfig.cache
+C:\Users\nalin\source\repos\Calculator_Console\Calculator_Console\obj\Debug\net8.0\ref\Calculator_Console.dll
